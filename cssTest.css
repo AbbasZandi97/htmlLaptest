@@ -6,3 +6,7 @@ h1{
     font-family: tahoma;
     font-size: 30px;
 }
+
+div{
+    background-color: red;
+}
